@@ -59,7 +59,7 @@ I am actively building practical projects and improving my understanding of how 
 
 ## 📌 Projects
 ⬇️ See pinned repositories below  
-Each project includes documentation and setup instructions.
+Each project includes documentation and setup instructions.(not yet)
 
 ---
 
