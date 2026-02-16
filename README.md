@@ -3,6 +3,16 @@
 Junior programmer with experience in C++ and C#, familiar with web technologies and backend development.
 Currently focused on automation, systems understanding, and building a strong foundation for a future career in cybersecurity.
 
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-purple?logo=csharp)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github)
+![Security](https://img.shields.io/badge/Cybersecurity-darkred)
+
+
 ---
 
 ## 🧠 About Me
