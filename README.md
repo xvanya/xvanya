@@ -5,40 +5,44 @@
 <p align="left">
   <img src="https://img.shields.io/badge/FOCUS-EMBEDDED_SYSTEMS-00599C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LANGUAGE-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/INTEREST-LOW_LEVEL_DEVELOPMENT-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DOMAIN-LOW_LEVEL_ENGINEERING-333333?style=for-the-badge" />
 </p>
 
-I am a junior software developer focused on **Embedded Systems and low-level software development**, with a strong interest in understanding how software interacts with hardware and operates at the system level.
+I am a software developer focused on **Embedded Systems, C++, and low-level software engineering**, with a strong interest in the interaction between software and hardware.
 
-My primary focus is developing a solid engineering foundation in C++, exploring microcontrollers, firmware architecture, memory management, hardware interfaces, and resource-constrained environments.
+My technical interests span embedded software development, computer architecture, firmware, memory management, and hardware interfaces. I am particularly interested in understanding how systems operate internally and developing efficient, reliable software for environments with specific hardware and resource constraints.
 
-I am particularly interested in the relationship between hardware and software — from understanding processor architecture and memory organization to implementing efficient, reliable, and predictable software for embedded platforms.
+My background also includes Python backend development, database technologies, and experience with C#/.NET and web technologies. This provides me with a broader perspective on software architecture and allows me to work across different areas of software development, including backend engineering.
 
-In addition to low-level development, I have experience with Python backend development, database technologies, and general software engineering concepts. This background has helped me develop a broader understanding of application architecture, data processing, and communication between software components.
+Beyond software, I have a strong interest in **electrical engineering, electronics, and computer hardware**, particularly in the principles that connect physical systems with software-driven technologies.
 
-Alongside embedded development, I maintain a strong interest in computer security, particularly firmware security, system vulnerabilities, and the protection of low-level software.
+I also maintain an interest in cybersecurity, system security, and reverse engineering, especially in the context of low-level systems.
 
-My long-term objective is to become a skilled **Embedded Software Engineer**, capable of designing, implementing, debugging, and optimizing software that interacts directly with hardware.
+My professional goal is to develop as an **Embedded Software Engineer**, combining strong C++ programming skills, system-level understanding, and practical engineering knowledge. I am also open to backend software development opportunities where I can apply my existing programming experience.
 
 ---
 
 ## Technical Stack
 
-### Programming Languages
+### Primary Programming Language
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+- Modern C++ programming
+- Object-oriented and procedural programming
+- Memory management and resource handling
+- Data structures and algorithms
+- Low-level programming concepts
+- Software architecture and design principles
 
 ### Embedded Systems & Hardware
 
-- Embedded C/C++ programming
+- Embedded C++ programming
 - Microcontroller architecture and fundamentals
 - Firmware development
 - Memory organization and management
 - Hardware-software interaction
-- Digital electronics fundamentals
+- Digital electronics and circuit fundamentals
 - GPIO, UART, SPI, I2C communication protocols
 - Interrupts and timers
 - Real-time systems fundamentals
@@ -52,127 +56,107 @@ My long-term objective is to become a skilled **Embedded Software Engineer**, ca
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Linux environment and command-line tools
+- Linux environments and command-line tools
 - Bash scripting and automation
-- Git-based development workflows
-- Build systems and compilation fundamentals
+- Git and version control
+- Build systems and compilation
 - Debugging and software testing
 - Computer architecture and operating system fundamentals
 
-### Backend & Database Development
+### Additional Technologies & Backend Development
 
-![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
 
 - Python backend development
-- REST API fundamentals
-- Relational database concepts
-- SQL and database queries
-- PostgreSQL
-- Database structure and data management
-
-### Additional Development Experience
-
-- C# and .NET fundamentals
+- Django and REST API fundamentals
+- C# and .NET development
+- SQL and relational database management
+- PostgreSQL and database design
 - JavaScript and TypeScript
-- HTML and CSS
-- React fundamentals
-- Application architecture fundamentals
-- Backend and frontend integration
+- React and frontend fundamentals
+- Backend architecture and application integration
 
 ---
 
 ## Engineering Interests
 
-### Embedded Software Development
+### Embedded Software & Computer Systems
 
-My primary area of interest is software designed to operate close to hardware, particularly in environments with limited computational resources and strict reliability requirements.
+- Bare-metal programming and firmware development
+- Microcontrollers and ARM architecture
+- Embedded Linux and RTOS
+- Hardware interfaces and communication protocols
+- Memory management and system optimization
+- Computer architecture and operating system internals
+- Real-time and resource-constrained systems
 
-Areas of interest:
+### Electrical Engineering & Electronics
 
-- Bare-metal programming
-- Microcontroller firmware
-- ARM architecture and embedded processors
-- Peripheral communication and hardware interfaces
-- Memory-constrained software design
-- Interrupt handling and concurrency
-- Real-time operating systems (RTOS)
-- Firmware architecture and optimization
-- Hardware debugging and performance analysis
+- Digital and analog electronics
+- Electronic circuits and components
+- Microprocessor and microcontroller systems
+- Hardware architecture and circuit design
+- Signal processing fundamentals
+- Hardware-software integration
 
-### Low-Level Programming & Computer Systems
+### Software Security
 
-I am interested in understanding the internal mechanisms that make software work.
-
-- CPU architecture and instruction execution
-- Stack, heap, and memory layout
-- Pointers and memory management
-- Processes, threads, and concurrency
-- Compilers, linkers, and build systems
-- Binary formats and executable files
-- Operating system internals
-- Performance optimization
-
-### Cybersecurity & Firmware Security
-
-Cybersecurity remains an important secondary interest, particularly where software security intersects with hardware and embedded systems.
-
-Areas of interest:
-
-- Embedded device security
-- Firmware analysis and reverse engineering
-- Secure boot and firmware integrity
-- Memory corruption vulnerabilities
-- Hardware and software attack surfaces
-- Cryptography fundamentals
-- System-level vulnerability research
+- Embedded systems security
+- Firmware security
+- Reverse engineering
+- Low-level vulnerability research
 
 ---
 
 ## Projects
 
-I am building a portfolio of practical projects focused on embedded programming, systems development, and hardware-software integration.
+I focus on developing practical software projects that demonstrate programming skills, system understanding, and the ability to solve engineering problems.
 
-My goal is to demonstrate not only the ability to write code, but also an understanding of system architecture, technical constraints, debugging processes, and engineering decisions.
+My portfolio includes and will continue to expand across several areas:
 
-**Selected project areas:**
-
-- Embedded C/C++ applications
-- Microcontroller-based projects
+- Embedded C++ applications
+- Microcontroller and firmware projects
 - Hardware communication and peripheral interfaces
-- Low-level programming experiments
+- Low-level programming and system utilities
 - Python backend applications
-- Database-driven applications
-- Firmware and system analysis tools
+- Database-driven software
+- Hardware-software integration
 
-More information, documentation, implementation details, and development notes will be available in individual repositories.
+Each project is intended to include clear documentation, implementation details, and relevant technical decisions.
 
 ---
 
 ## Current Focus
 
-My current learning and development priorities:
-
-- Strengthening modern C++ programming skills
-- Understanding computer architecture and memory management
-- Learning microcontroller programming and embedded development workflows
-- Exploring ARM-based platforms
-- Working with hardware communication protocols
-- Learning firmware debugging and testing techniques
-- Developing practical projects involving hardware and software integration
-- Improving Linux and system-level programming skills
-- Deepening my understanding of embedded software architecture
+- Advancing modern C++ programming skills
+- Developing embedded software engineering expertise
+- Exploring microcontroller platforms and ARM architecture
+- Working with hardware interfaces and communication protocols
+- Strengthening knowledge of electronics and computer architecture
+- Improving firmware debugging and development workflows
+- Deepening Linux and system-level programming knowledge
+- Building practical projects combining hardware and software
 
 ---
 
 ## Development Philosophy
 
-I believe that understanding how software works internally is just as important as knowing how to use a particular programming language or framework.
+I believe effective software engineering requires understanding not only how to write code, but also how the underlying systems operate.
 
-I aim to develop a strong foundation in computer science, electronics, and software engineering, with an emphasis on practical implementation, reliability, efficiency, and maintainable code.
+I value structured problem-solving, clean architecture, efficient implementation, reliability, and maintainability.
 
-I value systematic problem-solving, technical curiosity, continuous learning, and understanding the reasoning behind engineering decisions.
+My approach combines software development with an engineering mindset: understanding technical requirements, investigating problems at their source, and building solutions based on sound technical principles.
+
+I am particularly interested in technologies where software, electronics, and computer architecture converge.
 
 ---
 
@@ -206,7 +190,7 @@ I value systematic problem-solving, technical curiosity, continuous learning, an
 ---
 
 <p align="center">
-  <sub>EMBEDDED SOFTWARE DEVELOPMENT · C++ · COMPUTER SYSTEMS · LOW-LEVEL ENGINEERING</sub>
+  <sub>EMBEDDED SYSTEMS · C++ · ELECTRONICS · COMPUTER ARCHITECTURE · SOFTWARE ENGINEERING</sub>
 </p>
 
 <p align="center">
