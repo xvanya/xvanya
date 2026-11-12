@@ -127,7 +127,7 @@ My portfolio includes and will continue to expand across several areas:
 - Microcontroller and firmware projects
 - Hardware communication and peripheral interfaces
 - Low-level programming and system utilities
-- Python backend applications
+- C# backend applications
 - Database-driven software
 - Hardware-software integration
 
