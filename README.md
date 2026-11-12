@@ -10,7 +10,7 @@
 
 I am a junior software developer focused on **Embedded Systems and low-level software development**, with a strong interest in understanding how software interacts with hardware and operates at the system level.
 
-My primary focus is developing a solid engineering foundation in C and C++, exploring microcontrollers, firmware architecture, memory management, hardware interfaces, and resource-constrained environments.
+My primary focus is developing a solid engineering foundation in C++, exploring microcontrollers, firmware architecture, memory management, hardware interfaces, and resource-constrained environments.
 
 I am particularly interested in the relationship between hardware and software — from understanding processor architecture and memory organization to implementing efficient, reliable, and predictable software for embedded platforms.
 
