@@ -1,12 +1,20 @@
 # Ivan | Junior Embedded Software Developer
 
-**C/C++ Developer | Embedded Systems | Low-Level Programming**
+**C++ Developer | Embedded Systems | Low-Level Programming**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED_SYSTEMS-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/INTEREST-LOW_LEVEL_DEVELOPMENT-333333?style=for-the-badge" />
+</p>
 
 I am a junior software developer focused on **Embedded Systems and low-level software development**, with a strong interest in understanding how software interacts with hardware and operates at the system level.
 
 My primary focus is developing a solid engineering foundation in C and C++, exploring microcontrollers, firmware architecture, memory management, hardware interfaces, and resource-constrained environments.
 
 I am particularly interested in the relationship between hardware and software — from understanding processor architecture and memory organization to implementing efficient, reliable, and predictable software for embedded platforms.
+
+In addition to low-level development, I have experience with Python backend development, database technologies, and general software engineering concepts. This background has helped me develop a broader understanding of application architecture, data processing, and communication between software components.
 
 Alongside embedded development, I maintain a strong interest in computer security, particularly firmware security, system vulnerabilities, and the protection of low-level software.
 
@@ -18,11 +26,10 @@ My long-term objective is to become a skilled **Embedded Software Engineer**, ca
 
 ### Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Embedded Systems & Hardware
 
@@ -52,14 +59,27 @@ My long-term objective is to become a skilled **Embedded Software Engineer**, ca
 - Debugging and software testing
 - Computer architecture and operating system fundamentals
 
+### Backend & Database Development
+
+![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+- Python backend development
+- REST API fundamentals
+- Relational database concepts
+- SQL and database queries
+- PostgreSQL
+- Database structure and data management
+
 ### Additional Development Experience
 
 - C# and .NET fundamentals
-- Python scripting and automation
 - JavaScript and TypeScript
 - HTML and CSS
 - React fundamentals
-- REST API fundamentals
+- Application architecture fundamentals
+- Backend and frontend integration
 
 ---
 
@@ -69,7 +89,7 @@ My long-term objective is to become a skilled **Embedded Software Engineer**, ca
 
 My primary area of interest is software designed to operate close to hardware, particularly in environments with limited computational resources and strict reliability requirements.
 
-Areas I am interested in exploring:
+Areas of interest:
 
 - Bare-metal programming
 - Microcontroller firmware
@@ -116,12 +136,14 @@ I am building a portfolio of practical projects focused on embedded programming,
 
 My goal is to demonstrate not only the ability to write code, but also an understanding of system architecture, technical constraints, debugging processes, and engineering decisions.
 
-**Selected projects:**
+**Selected project areas:**
 
 - Embedded C/C++ applications
 - Microcontroller-based projects
 - Hardware communication and peripheral interfaces
 - Low-level programming experiments
+- Python backend applications
+- Database-driven applications
 - Firmware and system analysis tools
 
 More information, documentation, implementation details, and development notes will be available in individual repositories.
@@ -132,7 +154,7 @@ More information, documentation, implementation details, and development notes w
 
 My current learning and development priorities:
 
-- Strengthening C and modern C++ programming skills
+- Strengthening modern C++ programming skills
 - Understanding computer architecture and memory management
 - Learning microcontroller programming and embedded development workflows
 - Exploring ARM-based platforms
@@ -140,6 +162,7 @@ My current learning and development priorities:
 - Learning firmware debugging and testing techniques
 - Developing practical projects involving hardware and software integration
 - Improving Linux and system-level programming skills
+- Deepening my understanding of embedded software architecture
 
 ---
 
@@ -153,7 +176,28 @@ I value systematic problem-solving, technical curiosity, continuous learning, an
 
 ---
 
+## Languages
+
+| Language | Proficiency |
+|:---|:---|
+| English | B2 – Upper-Intermediate |
+| German | B2 – Upper-Intermediate |
+| Ukrainian | Native |
+| Russian | Native |
+| Polish | Basic – Conversational |
+
+---
+
 ## Contact
+
+<p align="left">
+  <a href="https://github.com/xvanya">
+    <img src="https://img.shields.io/badge/GitHub-xvanya-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:xnetvoyax@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 - **GitHub:** https://github.com/xvanya
 - **LinkedIn:** To be added
@@ -161,4 +205,10 @@ I value systematic problem-solving, technical curiosity, continuous learning, an
 
 ---
 
-*Currently focused on Embedded Software Development, C/C++, and low-level computer systems.*
+<p align="center">
+  <sub>EMBEDDED SOFTWARE DEVELOPMENT · C++ · COMPUTER SYSTEMS · LOW-LEVEL ENGINEERING</sub>
+</p>
+
+<p align="center">
+  <i>Understanding the hardware. Engineering the software.</i>
+</p>
